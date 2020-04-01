@@ -13,7 +13,7 @@ To you `mix.exs` add
 ```elixir
 defp deps do
   [
-    {:ex_tweet, git: "git@github.com:IanVermes/ex-tweet.git"},
+    {:ex_tweet, git: "git@github.com:IanVermes/ex_tweet.git"},
   ]
 end
 ```
