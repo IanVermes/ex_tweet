@@ -1,4 +1,4 @@
-# ex-tweet
+# ex_tweet
 Find tweets. Not just now but in the past too. No API access needed!
 
 Things you can do:
